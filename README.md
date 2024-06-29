@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gideonngige
+- 👋 Hi, I’m Gideon Ushindi
 - 👀 I’m interested in software development and data science
-- 🌱 I’m currently learning  Python and its frmaworks
+- 🌱 I’m currently learning  Python programming
 - 💞️ I’m looking to collaborate on software development, and data science projects 
 - 📫 How to reach me : Email- gideonushindi94@gmail.com
 - 😄 Pronouns: ...
