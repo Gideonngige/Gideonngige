@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Gideon Ushindi
-- 👀 I’m interested in software development and data science
-- 🌱 I’m currently learning  Python programming
-- 💞️ I’m looking to collaborate on software development, and data science projects 
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning  software development
+- 💞️ I’m looking to collaborate on software engineering projects 
 - 📫 How to reach me : Email- gideonushindi94@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: My name means winning, i can't loose.
+- ⚡ Fun fact: Iam a tech follower.
 
 <!---
 Gideonngige/Gideonngige is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
